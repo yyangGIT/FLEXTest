@@ -62,40 +62,50 @@
 			</Node>
 			<Node name="item0000000004">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="TC000_Demo.sj"/>
+					<Prp name="relpath" type="S" value="Setup.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="4"/>
-				<Prp name="key" type="S" value="{A95673B0-B975-4780-90F7-FF20791209FB}"/>
+				<Prp name="key" type="S" value="{FE61DC90-9AC8-4F3E-9D57-28C3D64CAD5F}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000005">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Setup.sj"/>
+					<Prp name="relpath" type="S" value="TearDown.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="5"/>
-				<Prp name="key" type="S" value="{FE61DC90-9AC8-4F3E-9D57-28C3D64CAD5F}"/>
+				<Prp name="key" type="S" value="{442A58D4-F448-4757-8652-F2B56614C81D}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000006">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="TearDown.sj"/>
+					<Prp name="relpath" type="S" value="Unit1.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="6"/>
-				<Prp name="key" type="S" value="{442A58D4-F448-4757-8652-F2B56614C81D}"/>
+				<Prp name="key" type="S" value="{15F3AF15-E33B-45B7-B7C8-013D6467B009}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
 			</Node>
 			<Node name="item0000000007">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Unit1.sj"/>
+					<Prp name="relpath" type="S" value="TC_VMAX_002.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="7"/>
-				<Prp name="key" type="S" value="{15F3AF15-E33B-45B7-B7C8-013D6467B009}"/>
+				<Prp name="key" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000008">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="CallFunc.sj"/>
+				</Node>
+				<Prp name="index" type="I" value="8"/>
+				<Prp name="key" type="S" value="{572145D9-AAED-4E25-8C77-1DDC4978F079}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
@@ -104,14 +114,23 @@
 		<Node name="folders">
 			<Node name="folders">
 				<Node name="folder0000000000">
-					<Node name="folders"/>
-					<Node name="references">
-						<Node name="ref0000000000">
+					<Node name="folders">
+						<Node name="folder0000000000">
+							<Node name="folders"/>
+							<Node name="references">
+								<Node name="ref0000000000">
+									<Prp name="index" type="I" value="0"/>
+									<Prp name="key" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}"/>
+								</Node>
+							</Node>
+							<Prp name="caption" type="S" value="VMAX"/>
+							<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
 							<Prp name="index" type="I" value="0"/>
-							<Prp name="key" type="S" value="{A95673B0-B975-4780-90F7-FF20791209FB}"/>
+							<Prp name="moniker" type="S" value=""/>
 						</Node>
 					</Node>
-					<Prp name="caption" type="S" value="TC_DataStore"/>
+					<Node name="references"/>
+					<Prp name="caption" type="S" value="TestCases"/>
 					<Prp name="description" type="S" value="A logical folder that is used to organize project items and elements."/>
 					<Prp name="index" type="I" value="0"/>
 					<Prp name="moniker" type="S" value=""/>

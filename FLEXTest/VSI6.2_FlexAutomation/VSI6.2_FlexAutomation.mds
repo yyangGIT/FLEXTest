@@ -1169,16 +1169,31 @@
 				<Node name="item0000000000">
 					<Node name="child list"/>
 					<Node name="test parameters"/>
-					<Prp name="count" type="I" value="2"/>
+					<Prp name="count" type="I" value="3"/>
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="group" type="B" value="0"/>
 					<Prp name="index" type="I" value="0"/>
-					<Prp name="key" type="S" value="{DB2A1D33-A5AF-449C-99BD-A2798927AC2E}"/>
-					<Prp name="name" type="S" value="DemoTest"/>
+					<Prp name="key" type="S" value="{1982A328-875F-4D43-8638-702BBC072AB9}"/>
+					<Prp name="name" type="S" value="DemoDS"/>
 					<Prp name="stoponerror" type="I" value="2"/>
 					<Prp name="stoponexception" type="I" value="2"/>
-					<Prp name="test moniker" type="S" value="{A95673B0-B975-4780-90F7-FF20791209FB}TC000_Demo"/>
+					<Prp name="test moniker" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}TC001_DataStore"/>
+					<Prp name="timeout" type="I" value="0"/>
+				</Node>
+				<Node name="item0000000001">
+					<Node name="child list"/>
+					<Node name="test parameters"/>
+					<Prp name="count" type="I" value="1"/>
+					<Prp name="description" type="S" value=""/>
+					<Prp name="enabled" type="B" value="-1"/>
+					<Prp name="group" type="B" value="0"/>
+					<Prp name="index" type="I" value="1"/>
+					<Prp name="key" type="S" value="{CD77F2F0-A507-4250-882F-9A9EBEE3D26C}"/>
+					<Prp name="name" type="S" value="DemoDS222222"/>
+					<Prp name="stoponerror" type="I" value="2"/>
+					<Prp name="stoponexception" type="I" value="2"/>
+					<Prp name="test moniker" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}TC001_DataStore"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
 			</Node>
