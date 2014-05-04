@@ -1169,16 +1169,16 @@
 				<Node name="item0000000000">
 					<Node name="child list"/>
 					<Node name="test parameters"/>
-					<Prp name="count" type="I" value="3"/>
+					<Prp name="count" type="I" value="1"/>
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="group" type="B" value="0"/>
 					<Prp name="index" type="I" value="0"/>
-					<Prp name="key" type="S" value="{1982A328-875F-4D43-8638-702BBC072AB9}"/>
-					<Prp name="name" type="S" value="DemoDS"/>
+					<Prp name="key" type="S" value="{FCB05F9D-7CF3-4934-83F2-8C2D8E796BF8}"/>
+					<Prp name="name" type="S" value="TC_VMAX_002"/>
 					<Prp name="stoponerror" type="I" value="2"/>
 					<Prp name="stoponexception" type="I" value="2"/>
-					<Prp name="test moniker" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}TC001_DataStore"/>
+					<Prp name="test moniker" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}TC_VMAX_002"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
 				<Node name="item0000000001">
@@ -1189,11 +1189,11 @@
 					<Prp name="enabled" type="B" value="-1"/>
 					<Prp name="group" type="B" value="0"/>
 					<Prp name="index" type="I" value="1"/>
-					<Prp name="key" type="S" value="{CD77F2F0-A507-4250-882F-9A9EBEE3D26C}"/>
-					<Prp name="name" type="S" value="DemoDS222222"/>
+					<Prp name="key" type="S" value="{16151109-BA3D-46AF-877A-6163AF11676B}"/>
+					<Prp name="name" type="S" value="TC_VMAX_003"/>
 					<Prp name="stoponerror" type="I" value="2"/>
 					<Prp name="stoponexception" type="I" value="2"/>
-					<Prp name="test moniker" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}TC001_DataStore"/>
+					<Prp name="test moniker" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}TC_VMAX_003"/>
 					<Prp name="timeout" type="I" value="0"/>
 				</Node>
 			</Node>

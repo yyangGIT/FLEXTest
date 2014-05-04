@@ -1,1 +1,0 @@
-rm .\VSI6.2_FlexAutomation\Log -Force -Recurse

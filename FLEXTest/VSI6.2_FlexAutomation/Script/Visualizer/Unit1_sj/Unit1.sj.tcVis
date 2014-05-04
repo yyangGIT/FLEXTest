@@ -20,6 +20,86 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
+			<Node name="item0000000000">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="790"/>
+					<Prp name="click point y" type="I" value="417"/>
+					<Prp name="datetime" type="D" value="41763.0986921296"/>
+					<Prp name="image file name" type="S" value="tcvi363006534200.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="39"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="428"/>
+					<Prp name="object left" type="I" value="725"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageVsphere.objectContainerApp.groupDropdown2.scroller.labelLabeldisplay"/>
+					<Prp name="object right" type="I" value="917"/>
+					<Prp name="object top" type="I" value="416"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value="tcvi363006534200.7z"/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="0"/>
+			</Node>
+			<Node name="item0000000001">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="799"/>
+					<Prp name="click point y" type="I" value="434"/>
+					<Prp name="datetime" type="D" value="41763.0988888889"/>
+					<Prp name="image file name" type="S" value="tcvi365469734201.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="41"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="442"/>
+					<Prp name="object left" type="I" value="725"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageVsphere.objectContainerApp.groupDropdown2.scroller.labelLabeldisplay2"/>
+					<Prp name="object right" type="I" value="917"/>
+					<Prp name="object top" type="I" value="430"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value="tcvi365469734201.7z"/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="1"/>
+			</Node>
+			<Node name="item0000000002">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="777"/>
+					<Prp name="click point y" type="I" value="343"/>
+					<Prp name="datetime" type="D" value="41763.0989583333"/>
+					<Prp name="image file name" type="S" value="tcvi366093734202.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="43"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="358"/>
+					<Prp name="object left" type="I" value="721"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageVsphere.objectContainerApp.newDatastorePanel.BodyPanel.BodyContainer.DropdownlistMaxFileSize"/>
+					<Prp name="object right" type="I" value="921"/>
+					<Prp name="object top" type="I" value="336"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value="tcvi366093734202.7z"/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="2"/>
+			</Node>
+			<Node name="item0000000003">
+				<Node name="data">
+					<Prp name="click point x" type="I" value="783"/>
+					<Prp name="click point y" type="I" value="390"/>
+					<Prp name="datetime" type="D" value="41763.0991782407"/>
+					<Prp name="image file name" type="S" value="tcvi367953334203.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="line #" type="I" value="45"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object bottom" type="I" value="398"/>
+					<Prp name="object left" type="I" value="725"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageVsphere.objectContainerApp.groupDropdown2.scroller.labelLabeldisplay3"/>
+					<Prp name="object right" type="I" value="917"/>
+					<Prp name="object top" type="I" value="386"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="storage file name" type="S" value="tcvi367953334203.7z"/>
+					<Prp name="version" type="I" value="1"/>
+				</Node>
+				<Prp name="index" type="I" value="3"/>
+			</Node>
 			<Prp name="key" type="S" value="{15F3AF15-E33B-45B7-B7C8-013D6467B009}"/>
 		</Node>
 		<Prp name="signature" type="S" value="{42D2222C-ACA2-405F-8E67-05D5C42EB839}"/>

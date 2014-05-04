@@ -112,10 +112,20 @@
 			</Node>
 			<Node name="item0000000009">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="TC_VMAX_003.sj"/>
+					<Prp name="relpath" type="S" value="Report.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="9"/>
-				<Prp name="key" type="S" value="{A35A3EC3-65C0-4738-9A28-3C718E297505}"/>
+				<Prp name="key" type="S" value="{A4749BBB-F479-4FEB-9638-2079A114914F}"/>
+				<Prp name="pluginname" type="S" value="Script"/>
+				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
+				<Prp name="typename" type="S" value="Script Unit"/>
+			</Node>
+			<Node name="item0000000010">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="ExcelAdapter.sj"/>
+				</Node>
+				<Prp name="index" type="I" value="10"/>
+				<Prp name="key" type="S" value="{BCCCD006-BC30-4D78-A86B-4EB789FDA32D}"/>
 				<Prp name="pluginname" type="S" value="Script"/>
 				<Prp name="type" type="S" value="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}"/>
 				<Prp name="typename" type="S" value="Script Unit"/>
@@ -131,10 +141,6 @@
 								<Node name="ref0000000000">
 									<Prp name="index" type="I" value="0"/>
 									<Prp name="key" type="S" value="{015250BA-84FA-412F-9472-27C70669C721}"/>
-								</Node>
-								<Node name="ref0000000001">
-									<Prp name="index" type="I" value="1"/>
-									<Prp name="key" type="S" value="{A35A3EC3-65C0-4738-9A28-3C718E297505}"/>
 								</Node>
 							</Node>
 							<Prp name="caption" type="S" value="VMAX"/>
